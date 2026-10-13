@@ -1,0 +1,75 @@
+WHAT DOES AI DO?
+
+- Artificial intelligence machines(researchers call the "AI Services") don't think. They calculate.
+    They represent some of the newest and most sophisticated calculating machines in the human history.
+    Some can perform what's called Machine learning as they acquire new data.
+    Others, using calculations arranged in ways inspired by neurons in the human brain, can even
+    perform deep learning with multiple levels of calculations.
+
+                     ---------------------------------------
+                    |                                       |
+                    |       Artificial Intelligence         |
+                    |                                       |
+                    |                                       |
+                    |     ------------------------------    |
+                    |    |                              |   |
+                    |    |                              |   |
+                    |    |      Machine Learning        |   |
+                    |    |                              |   |
+                    |    |    ------------------------  |   |
+                    |    |    |                      |  |   |
+                    |    |    |    Deep Learning     |  |   |
+                    |    |    ------------------------  |   |
+                    |     ------------------------------    |
+                     ---------------------------------------
+
+- Imagine you are given the job to sort item in the product department at the grocery store. You realize
+    that there are a dozens of products and very little time to sort them manually. 
+    How could you use Artificial Intelligence, Machine learning, and Deep learning to help with you work?
+
+    Artificial Intelligence:
+    -> To seperate different types of frutes such as berries, stone fruits, and tropical fruits, you
+        could create a programmed rule in the format of if-else statements. A programmed rule might 
+        look something like this:
+
+            if berries_is_on_label:
+                route_items_to_center_basket()
+            else:
+                redirect_item_to_main_basket()
+    
+    Machine Learning:
+    -> To improve the performance of the machine, you expose it to more data to ensure that the machine
+        is trained on numerous characteristics of each type of fruit. The more data you provide for the
+        algorithm, the better the model gets.
+    
+    Deep Learning:
+    -> The grocery store has expanded its produce selection to include more varieties such as nectarines
+        and plums (stone fruits), blackberries and cranberries (berries), and mangoes and star fruit
+        (tropical fruits). In addition, the products now come in different sizes, shapes, and colors.
+        What makes deep learning different?
+    -> Deep learning model eliminates the need for feature extraction. You decide to use algorithms
+        based on deep learning to sort fruit by removing the need to define what each product looks
+        like (unlike in the machine learning where machine is trained on numerous characteristics of
+        each types of fruits).
+    -> Feature extraction is built into the process without human input. Once you have provided the deep
+        learning model with dozens of fruit pictures, it processes the images through different layers
+        of neural networks. The layers can then learn an implicit representation of the raw data on
+        their own.
+
+
+--------------------------------------------------------------------------------------------------------
+
+HOW DO AI SERVICES CALCULATE? AND WHAT DO THEY DO WITH THOSE CALCULATIONS?
+
+- Let's break this down in two parts.
+    1. Analysis:
+        -> AI services can take in (or “ingest”) enormous amounts of data. They can apply mathematical
+            calculations to analyze data, sorting and organizing it in ways that would have been considered
+            impossible only a few years ago.
+
+    2. Prediction:
+        -> AI services can use their data analysis to make predictions. They can, in effect, say,
+            “Based on this information, a certain thing will probably happen.”
+
+- This is what AI services do! Based on data analysis, they make predictions. It might not seem like
+    much, but that analysis and those predictions can have an enormous impact on human life.
