@@ -1,0 +1,203 @@
+THE ERA OF AI:
+
+A BRIEF HISTORY OF AI
+- The history of artificial intelligence dates back to philosophers thinking about the question, "What
+    more can be done with the world we live in?" This question lead to discussions and the very beginning
+    of many ideas about the possibilities involving technology. 
+- Since the advent of electronic computing, there are some important events and milestones in the
+    evolution of artificial intelligence to know about. Here's an overview to get started.
+    
+
+    1940s
+    Turing Machines
+    |  Alan Turing publishes Computing Machinery and Intelligence. In the paper, Turing—famous for
+    |  helping to break the Nazis’ Enigma code during World War II—proposes to answer the question
+    |  "can machines think?" and introduces the Turing Test to determine if a computer can demonstrate
+    |  the same intelligence (or the results of the same intelligence) as a human.
+    |
+    |
+    1940s
+    Analogue Robots 
+    |
+    |
+    |
+    1950
+    Turing Test
+    |
+    |
+    |
+    1951
+    Minsky Neural Net
+    |
+    |
+    |
+    1956
+    |
+    |
+    |
+    1956
+    DartMouth Conference
+    Birth of Artificial Intelligence
+    |  John McCarthy coins the term "artificial intelligence at the first-ever AI conference at Dartmouth
+    |  College. Later that year, Allen Newell, J.C. Shaw, and Herbert Simon create the Logic Theorist,
+    |  the first-ever running AI software program. McCarthy would go on to invent the Lisp language.
+    |
+    |
+    1957
+    Checkers
+    |
+    |
+    |
+    1960s
+    Semantic Networds
+    |
+    |
+    |
+    1966
+    ELIZA
+    |
+    |
+    |
+    1969
+    SHRDLU
+    Born
+    |
+    |
+    |
+    1970-80
+    1st AI Winter
+    K9, Start Wars
+    |  1st AI Winter caused by high expectations from end users and reduced funding.
+    |
+    |
+    1982
+    Expert Systems
+    ZX81
+    |
+    |
+    |
+    1982
+    Hopfield
+    Net/Black
+    Propagation
+    |
+    |
+    |
+    1982-1993
+    2nd AI Winter
+    Joined IBM
+    |  2nd AI Winter caused by unmet expectations and computing power.
+    |
+    |
+    1997
+    Deep Blue beats Kasparov (chess)
+    |  IBM Deep Blue beats then world champion Garry Kasparov in a chess match (and rematch).
+    |
+    |
+    2005
+    DARPA Geand Challenge
+    (self driving vehicle)
+    |
+    |
+    |
+    2011
+    Watson wins Jeopardy
+    (quiz show)
+    |  IBM Watson beats champions Ken Jennings and Brad Rutter at the US game show called Jeopardy!
+    |
+    |
+    2016
+    AlphaGo (Go)
+    |  DeepMind's AlphaGo program, powered by a deep neural network, beats Lee Sodol, the world champion
+    |  Go player, in a five-game match. The victory is significant given the huge number of possible
+    |  moves as the game progresses (over 14.5 trillion after just four moves!). Google bought DeepMind
+    |  for a reported USD 400 million in 2014.
+    |
+    |
+    2017
+    Alpha Zero
+    K9 Mk1
+    |
+    |
+    |
+    2019
+    Project Debater
+    |  IBM unveils Project Debater, the first AI system capable of engaging with humans on complex topics
+    |  in a live debate.
+    |
+    |
+    2022
+    K9 Mk2
+    |
+    |
+    |
+    v
+-----------------------------------------------------------------------------------------------------------
+
+THE ERA OF AI BEGAN ONE SUMMER IN 1956
+- Early in the summer of 1956, a small group of researchers, led by John McCarthy and Marvin Minsky,
+    gathered at Dartmouth College in New Hampshire. There, at one of the oldest colleges in the United
+    States, they launched a revolution in scientific research and coined the term “artificial
+    intelligence”.
+- The researchers proposed that “every aspect of learning or any other feature of intelligence can be so
+    precisely described that a machine can be made to simulate it.” They called their vision “artificial
+    intelligence” and they raised millions of dollars to achieve it within 20 years. During the next
+    two decades, they accomplished tremendous things, creating machines that could prove geometry
+    theorems, speak simple English, and even solve word problems with algebra. 
+    For a short time, AI was one of the most exciting fields in computer science.
+
+
+BUT THEN CAME WINTER
+- By the early 1970s, it became clear that the problem was larger than researchers imagined. There were
+    fundamental limits that no amount of money and effort could solve.
+    1. Limited calculating power
+        -> Today, it is important for a computer to have enough processing power and memory. Every ad
+            you see for companies like Apple or Dell emphasizes how fast their processors run and how
+            much data they can work with. But in 1976, scientists realized that even the most successful
+            computers of the day, working with natural language, could only manipulate a vocabulary of
+            about 20 words. But a task like matching the performance of the human retina might require
+            millions of instructions per second, at a time when the world’s fastest computer could run
+            only about a hundred. By the early 1970s, it became clear that the problem was larger than
+            researchers imagined. There were fundamental limits that no amount of money and effort could
+            solve.
+    
+    2. Limited information storage
+        -> Even simple, commonsense reasoning requires a lot of information to back it up. But no one in
+            1970 knew how to build a database large enough to hold even the information known by a
+            2-year-old child.
+
+    As these issues became clear, the money dried up for The First Winter of AI.
+
+
+THE WEATHER WAS ROUGH FOR HALF A CENTURY
+- It took about a decade for technology and AI theory to catch up, primarily with new forms of AI called
+    “expert systems”. These were limited to specific knowledge that could be manipulated with sets of
+    rules. They worked well enough—for a while—and became popular in the 1980s. Money poured in.
+    Researchers invested in tremendous mainframe machines that cost millions of dollars and occupied
+    entire floors of large university and corporate buildings. It seemed as if AI was booming once
+    again.
+- But soon the needs of scientists, businesses, and governments outgrew even these new systems. Again,
+    funding for AI collapsed.
+
+
+THEN CAME ANOTHER AI CHILL
+- In the late 1980s, the boom in AI research cooled, in part, because of the rise of personal computers.
+    Machines from Apple and IBM, sitting on desks in people’s homes, grew more powerful than the huge
+    corporate systems purchased just a few years earlier. Businesses and governments stopped investing
+    in large-scale computing research, and funding dried up.
+- Over 300 AI companies shut down or went bankrupt during The Second Winter of AI.
+
+
+NOW, THE FORECAST IS SUNNY
+- In the mid-1990s, almost half a century after the Dartmouth research project, the Second Winter of AI
+    began to thaw. Behind the scenes, computer processing finally reached speeds fast enough for
+    machines to solve complex problems.
+- At the same time, the public began to see AI’s ability to play sophisticated games.
+    -> In 1997, IBM’s Deep Blue beat the world’s chess champion by processing over 200 million possible
+        moves per second.
+    -> In 2005, a Stanford University robot drove itself down a 131-mile desert trail.
+    -> In 2011, IBM’s Watson defeated two grand champions in the game of Jeopardy!
+- Today, AI has proven its ability in fields ranging from cancer research and big data analysis to
+    defense systems and energy production. Artificial intelligence has come of age. AI has become one
+    of the hottest fields of computer science. Its achievements impact people every day and its
+    abilities increase exponentially. The Two Winters of AI have ended!
