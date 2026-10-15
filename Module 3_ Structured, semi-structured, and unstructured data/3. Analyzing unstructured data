@@ -1,0 +1,61 @@
+ANALYZING UNSTRUCTURED DATA:
+
+- Try it yourself!
+    Do you think it’s easy to work with unstructured data? Try this thought experiment. As you continue
+    reading, you’ll encounter two different samples of dark data about the weather. Each set will ask
+    you to answer a question about its data as quickly as possible. Find out for yourself which one is
+    harder to answer.
+
+    Select what you think might be the best answer.
+
+        1. Based on the following structured data, what was the highest temperature in New York during a
+            recent week?
+
+            - Monday, 32°F (0°C)
+
+            - Tuesday, 36°F (2.2°C)
+
+            - Wednesday, 22°F (-5.6°C)
+
+            - Thursday, 19°F (-7.2°C)
+
+            - Friday, 10°F (-12.2°C)
+
+            - Saturday, 37°F (2.8°C) ✅
+
+            - Sunday, 31°F (-0.6°C)
+        
+
+    Now try answering the next question.
+
+        2. Based on the following unstructured data, what was the highest temperature in Buenos Aires last week?
+
+            - Watch a hilarious video of a dog chasing a rat.
+
+            - Let’s just say that Simcha’s dress was unfortunate.
+
+            - The last chapter is 32 pages long except on a smartphone.
+
+            - Through the window, the thermometer said 58°F.
+
+            - Core 16 apples and stuff them with cinnamon.
+
+            - It feels like it’s 21°C. ✅
+
+            - He got a 90 on the exam. 
+        
+    The second question includes irrelevant data and, to make things worse, includes both Fahrenheit and
+    Celsius temperatures. This question illustrates why unstructured data is more difficult to analyze
+    quickly.
+
+- Now, imagine a programmable computer trying to extract meaning from billions of data like this! What
+    kind of program would someone write that could sort out every eventuality among the clutter? How
+    would someone build a long enough list of keywords to find anything useful? Unstructured data hides
+    answers to disease prevention, criminal activity, stock markets—almost every aspect of civilization
+    today. Without those answers, people and organizations cannot make useful predictions or
+    recommendations.
+
+- But AI can shed light on unstructured data! AI uses new kinds of computing—some modeled on the human
+    brain—to rapidly give dark data structure, and from it, make new discoveries. AI can even learn
+    things—by itself—from the data it manages and teach itself how to make better predictions over
+    time. This is the Era of AI, and it changes everything!

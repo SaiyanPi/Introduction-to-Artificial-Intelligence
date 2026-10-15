@@ -1,0 +1,81 @@
+A LOOK AT THE TYPES OF DATA:
+
+- Data is raw information. Data might be facts, statistics, opinions, or any kind of content that is
+    recorded in some format. This could include voices, photos, names, and even dance moves!
+    Data can be organized into the 3 types
+
+1. Structured data:
+    -> Structured data is typically categorized as quantitative data and is highly organized.
+    -> Structured data is information that can be organized in rows and columns. Perhaps you've seen
+        structured data in a spreadsheet, like Google Sheets or Microsoft Excel. Examples of structured
+        data includes names, dates, addresses, credit card numbers, stock information.
+
+2. Unstructured data:
+    -> Unstructured data, also known as dark data, is typically categorized as qualitative data. It
+        cannot be processed and analyzed by conventional data tools and methods. Unstructured data lacks
+        any built-in organization, or structure. Examples of unstructured data include images, texts,
+        customer comments, medical records, and even song lyrics.
+
+3. Semi-structured data:
+    -> Semi-structured data is the “bridge” between structured and unstructured data. It doesn't have a
+        predefined data model. It combines features of both structured data and unstructured data. It's
+        more complex than structured data, yet easier to store than unstructured data.
+    -> Semi-structured data uses metadata to identify specific data characteristics and scale data into
+        records and preset fields. Metadata ultimately enables semi-structured data to be better
+        cataloged, searched, and analyzed than unstructured data. An example of semi-structured data
+        is a video on a social media site. The video by itself is unstructured data, but a video
+        typically has text for the internet to easily categorize that information, such as through a
+        hashtag to identify a location.
+
+- The importance of unstructured data is rapidly increasing. Recent projections indicate that 95% of
+    businesses prioritize unstructured data management.
+
+----------------------------------------------------------------------------------------------------------
+
+SEE IF YOU CAN IDENTIFY EXAMPLES OF DATA! ANSWER THE FOLLOWING QUESTIONS.
+
+1. Which of the following do you think might be an example of unstructured data?
+
+    - How far you walked to visit a friend
+
+    - Your math grades in high school
+
+    - Your social media posts ✅
+
+    - Your family tree
+
+
+2. Which of the following do you think might be an example of structured data?
+
+    - Surveillance data
+
+    - Productivity applications
+
+    - Video files
+
+    - Hotel and ticket reservation data ✅
+
+
+3. Which of the following do you think might be an example of semi-structured data?
+
+    - Tweets organized by hashtags ✅
+
+    - Online reviews
+
+    - Billing information
+
+    - Audio files
+
+
+-----------------------------------------------------------------------------------------------------------
+
+- Are you wondering why this is important? Why would anyone want to search through a mountain of data such
+    as social media posts? 
+    Here are just some of the many people and organizations that might need to do this:
+    -> A sneaker designer looking for new trends
+    -> Governments searching for possible terrorists
+    -> Pandemic experts trying to anticipate disease outbreaks
+    -> Financial institutions preparing for good times or a recession
+
+- Experts estimate that about 80% of all the data in today’s world is unstructured. It contains so many
+    variables and changes so quickly that no conventional computer program can learn much from it.
